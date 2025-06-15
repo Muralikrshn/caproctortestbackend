@@ -1,6 +1,6 @@
 ### 📽 Demo
 
-https://your-video-link.com](https://youtu.be/Ww6a--2WNco
+https://youtu.be/Ww6a--2WNco
 
 📘 CA Proctor Test Helper
 AI-powered quiz generator + real-time exam collaboration tool for CA students and beyond
