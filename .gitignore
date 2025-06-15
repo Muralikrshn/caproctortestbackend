@@ -1,0 +1,24 @@
+# Ignore Python environment
+myvenv/
+venv/
+.env
+__pycache__/
+
+# Ignore OS and editor files
+.DS_Store
+*.log
+
+# Ignore any large data or model files
+*.pkl
+*.db
+*.pt
+*.h5
+*.zip
+*.tar.gz
+
+# Node
+node_modules/
+
+
+client_secret.json
+token.json
