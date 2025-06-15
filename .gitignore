@@ -19,6 +19,7 @@ __pycache__/
 # Node
 node_modules/
 
+token_drive_v3.pickle
 
 client_secret.json
 token.json
